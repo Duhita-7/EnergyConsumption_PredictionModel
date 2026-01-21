@@ -1,0 +1,29 @@
+==============================================================
+Energy Consumption Prediction Model
+
+Author Name: Chandan Chaudhari
+
+Email id:
+
+Date: 21/01/2026
+==============================================================
+Problem Statement:
+
+
+Dataset Description: 
+
+==============================================================
+Key Observations:
+
+
+
+
+==============================================================
+Project Workflow:
+
+1. Data Ingestion
+2. Data Exploration
+
+
+
+==============================================================
